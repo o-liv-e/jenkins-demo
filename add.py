@@ -7,3 +7,6 @@ print("Second Number:", b)
 print("Sum:", result)
 mul = a*b
 print("Product:", mul)
+
+div = a/b
+print("Quotient:", div)
